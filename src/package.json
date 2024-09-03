@@ -1,5 +1,9 @@
 {
   "devDependencies": {
     "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "esbuild": "^0.23.1",
+    "minify": "^11.4.0"
   }
 }
